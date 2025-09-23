@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Business",
+      "Business Ethics"
+    ],
+    [
+      "Engineering"
+    ]
+  ],
+  "legacy_uid": "dae239f3-7dc1-ffc2-fc22-b49aa2dc00c9",
+  "instructors": {
+    "content": [
+      "fd0acb5c-a0ab-5eee-05c4-257d1a69445e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fa0cc388-e46c-a929-1886-9ad918ef07c8",
+    "website": "esd-932-engineering-ethics-spring-2006"
+  },
+  "course_title": "Engineering Ethics",
+  "course_description": "This course introduces the theory and the practice of engineering ethics using a multi-disciplinary and cross-cultural approach. Theory includes ethics and philosophy of engineering. Historical cases are taken primarily from the scholarly literatures on engineering ethics, and hypothetical cases are written by students. Each student will write a story by selecting an ancestor or mythic hero as a substitute for a character in a historical case. Students will compare these cases and recommend action.\n",
+  "department_numbers": [
+    "ESD"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ESD.932",
+  "course_image_thumbnail": {
+    "content": "96eecf8b-46f3-8374-c7bc-a3084500a43b",
+    "website": "esd-932-engineering-ethics-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Audio"
+  ],
+  "site_uid": "1bc233e1-2298-48ea-a0dc-2c981a2e47fd",
+  "site_short_id": "esd.932-spring-2006",
+  "site_url_path": "courses/esd-932-engineering-ethics-spring-2006",
+  "title": "Course Metadata"
+}
