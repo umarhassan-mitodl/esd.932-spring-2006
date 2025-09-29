@@ -3,19 +3,21 @@ content_type: page
 description: The readings section contains readings for parts 1 and 2 of the course
   and 1 supplement reading.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 1d41e9b9-c84a-4733-2cdf-bc304ea10c99
 ---
-Students are expected to read the following works associated with Parts 1 and 2 of the course. This page also contains a {{% resource_link "4a0ee1b9-5cd9-4edf-bc08-c62faff2ab30" "supplemental reading" %}}: a draft preface to Professor Broome's forthcoming book on engineering ethics.
+Students are expected to read the following works associated with Parts 1 and 2 of the course. This page also contains a [supplemental reading](https://ocw-studio.odl.mit.edu/sites/esd-932-engineering-ethics-spring-2006/type/page/edit/1d41e9b9-c84a-4733-2cdf-bc304ea10c99/#Supplementary_Reading): a draft preface to Professor Broome's forthcoming book on engineering ethics.
 
 ## Part 1 Readings
 
-Aristotle. {{% resource_link "e8faccc0-59d4-46bd-a093-c4d6ff1ea630" "*The Metaphysics*" %}}. (Download a version of this from the Internet Classics Archive.)
+Aristotle. [*The Metaphysics*](http://classics.mit.edu/Aristotle/metaphysics.html). (Download a version of this from the Internet Classics Archive.)
 
-"{{% resource_link "6d30f509-b2fc-43bf-87db-bad53631b87e" "The Grinter Report: Summary of the Report on Evaluation of Engineering Education" %}}." American Society for Engineering Education (ASEE).
+"[The Grinter Report: Summary of the Report on Evaluation of Engineering Education](http://www.asee.org/member-resources/reports)." American Society for Engineering Education (ASEE).
 
 Davis, M., ed. *Engineering Ethics*. Burlington, VT: Ashgate Publishing Co., 2005. ISBN: 0754625249.
 
@@ -33,7 +35,7 @@ Vincenti, W. G. *What Engineers Know and How They Know It: Analytical Studies fr
 
 ## Part 2 Readings
 
-Broome, T. H. {{% resource_link "a6c45ec2-9688-4208-9720-9af16e420de1" "*The Concrete Sumo*" %}}. Cleveland, OH: Online Ethics Center for Engineering and Science, Case Western Reserve University, 1999.
+Broome, T. H. [*The Concrete Sumo*](https://web.archive.org/web/20071031062932/http://www.onlineethics.org/CMS/edu/instructessays/sumo.aspx). Cleveland, OH: Online Ethics Center for Engineering and Science, Case Western Reserve University, 1999.
 
 Harris, C. E., et al. *Engineering Ethics.* 2nd ed. Belmont, CA: Wadsworth, 1999. ISBN: 0534533973.
 

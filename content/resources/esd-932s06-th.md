@@ -4,11 +4,12 @@ description: New image Upload
 file: /courses/esd-932-engineering-ethics-spring-2006/96eecf8b46f38374c7bca3084500a43b_esd-932s06-th.jpg
 file_size: 14968
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: The Love Canal toxic waste site, with its long history of health effects,
     cleanup efforts, and eventual relocation of all residents, is one of the case
-    studies considered in this course. (Photograph courtesy of {{% resource_link "75bbf5ec-497d-4fc4-b751-0dc7f44a639f"
-    "U.S. EPA" %}}.)
+    studies considered in this course. (Photograph courtesy of [U.S. EPA](http://www.epa.gov/).)
   credit: ''
   image-alt: Photo of abandoned house.
 learning_resource_types: []
